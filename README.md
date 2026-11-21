@@ -6,9 +6,9 @@ Este repositório é destinado à distribuição do aplicativo. O desenvolviment
 
 ## Download
 
-**[Baixar Anon Multistream para Windows x64](https://github.com/AnonStudioOfficial/Anon-Multistream-Downloads/releases/download/v0.6.0-beta.7/Anon-Multistream-0.6.0-beta.7-Windows-x64.zip)** · versão 0.6.0-beta.7 · aproximadamente 245 MB.
+**[Baixar Anon Multistream para Windows x64](https://github.com/AnonStudioOfficial/Anon-Multistream-Downloads/releases/download/v0.6.0-beta.10/Anon-Multistream-0.6.0-beta.10-Windows-x64.zip)** · versão 0.6.0-beta.10 · aproximadamente 245 MB.
 
-[Notas da versão e checksum](https://github.com/AnonStudioOfficial/Anon-Multistream-Downloads/releases/tag/v0.6.0-beta.7). Os arquivos automáticos “Source code” desta página de distribuição não são o aplicativo.
+[Notas da versão e checksum](https://github.com/AnonStudioOfficial/Anon-Multistream-Downloads/releases/tag/v0.6.0-beta.10). Os arquivos automáticos “Source code” desta página de distribuição não são o aplicativo.
 
 ## Instalação
 
