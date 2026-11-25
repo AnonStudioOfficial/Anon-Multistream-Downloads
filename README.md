@@ -6,9 +6,17 @@ Este repositório é destinado à distribuição do aplicativo. O desenvolviment
 
 ## Download
 
-**[Baixar Anon Multistream para Windows x64](https://github.com/AnonStudioOfficial/Anon-Multistream-Downloads/releases/download/v0.6.0-beta.13/Anon-Multistream-0.6.0-beta.13-Windows-x64.zip)** · versão 0.6.0-beta.13 · aproximadamente 245 MB.
+**[Baixar Anon Multistream para Windows x64](https://github.com/AnonStudioOfficial/Anon-Multistream-Downloads/releases/download/v0.6.0-beta.14/Anon-Multistream-0.6.0-beta.14-Windows-x64.zip)** · versão 0.6.0-beta.14 · aproximadamente 255 MB.
 
-[Notas da versão e checksum](https://github.com/AnonStudioOfficial/Anon-Multistream-Downloads/releases/tag/v0.6.0-beta.13). Os arquivos automáticos “Source code” desta página de distribuição não são o aplicativo.
+[Notas da versão e checksum](https://github.com/AnonStudioOfficial/Anon-Multistream-Downloads/releases/tag/v0.6.0-beta.14). Os arquivos automáticos “Source code” desta página de distribuição não são o aplicativo.
+
+## Xbox Remote Play experimental
+
+Adicione uma fonte Xbox para conectar seu console, jogar em uma janela separada e usar imagem e áudio nas cenas. O áudio aparece no canal JOGO. O modo Automático é recomendado; a janela **Qualidade recebida · detalhes** mostra resolução, FPS, bitrate, perdas e tempo de decodificação quando disponíveis. Inclui reconexão e redução de consultas repetidas na conexão.
+
+Esta integração não é oficial Microsoft. A qualidade depende do console e da rede; acesso fora da rede local ainda exige validação. Métricas Xbox não são gravadas no relatório geral.
+
+A beta.14 também corrige a confirmação do status do chat Instagram e isola os destinos do repasse com filas e recuperação independentes.
 
 ## Gravação local
 
